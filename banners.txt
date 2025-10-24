@@ -1,7 +1,9 @@
-https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@main/avisovet.jpg
-https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@main/qr.jpg
-https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@main/cursosgratis.jpg
-https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@main/expo.png
+https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@master/avisovet.jpg
+https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@master/qr.jpg
+https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@master/cursosgratis.jpg
+https://cdn.jsdelivr.net/gh/garecasof/Baku-Banners@master/expo.png
+
+
 
 
 
